@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "522368483098",
+    "firebase_url": "https://ikina-d7603.firebaseio.com",
+    "project_id": "ikina-d7603",
+    "storage_bucket": "ikina-d7603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522368483098:android:f31517bb877ec00f",
+        "android_client_info": {
+          "package_name": "asia.ikina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522368483098-gn6m1uubpqqe23lk0800ph442b373s3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBvPoGQOs9aalRS8dQOn-H42cjV1eFgUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
